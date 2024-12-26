@@ -1,3 +1,5 @@
 fastapi
 uvicorn
-g4f  # Add this if it's the library you are using
+gunicorn
+pydantic
+g4f

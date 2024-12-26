@@ -3,3 +3,4 @@ uvicorn
 gunicorn
 pydantic
 g4f
+gunicorn[uvicorn]
